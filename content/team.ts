@@ -28,14 +28,7 @@ export const teamMembers: TeamMember[] = [
     email: "sarath.sreedharan@colostate.edu",
     website: { text: "sarathsreedharan.com", url: "http://sarathsreedharan.com/" },
   },
-  {
-    name: "Turgay Caglar",
-    title: "Ph.D.",
-    focus: "AI & Planning",
-    image: "/team/turguy.png",
-    email: "turgay.caglar@colostate.edu",
-    linkedin: { text: "Turgay Caglar", url: "https://www.linkedin.com/in/turgay-caglar-6a2780a0/" },
-  },
+  
   {
     name: "Kelsey Sikes",
     title: "Ph.D.",
@@ -95,6 +88,15 @@ export const teamMembers: TeamMember[] = [
 ]
 
 export const alumni: TeamMember[] = [
+  {
+    name: "Turgay Caglar",
+    title: "Ph.D.",
+    focus: "AI & Planning",
+    image: "/team/turguy.png",
+    email: "turgay.caglar@colostate.edu",
+    linkedin: { text: "Turgay Caglar", url: "https://www.linkedin.com/in/turgay-caglar-6a2780a0/" },
+  },
+  
   {
     name: "Malek Merchergui",
     title: "Ms",
