@@ -14,6 +14,14 @@ export interface Publication {
 
 export const publications: Publication[] = [ 
       {
+        title: "Reducing Goal State Divergence with Environment Design",
+        url: "https://drive.google.com/file/d/1d4x5WgHWKeksUCL-rIy-Q26mZzInhIsv/view?usp=drive_link",
+        tags: ["Human-Aware AI", "Value Alignment"],
+        authors: "Kelsey Sikes, Sarah Keren and Sarath Sreedharan",
+        year: 2026,
+        additional: "AAAI 2026",
+      },
+      {
         title: "Mental Model-based Generation of Lies for Insider Threat Modeling",
         url: "https://drive.google.com/file/d/1-VZ1m2Iw1f7qqiDrdHpXjFdrNqK4pSlj/view",
         tags: ["Other"],
