@@ -29,6 +29,22 @@ export const publications: Publication[] = [
         year: 2026,
         additional: "AAAI 2026",
       },
+        {
+        title: "Plan Explanation through Recommendations",
+        url: "https://openreview.net/pdf?id=qfgi8aPbTU",
+        tags: ["XAI"],
+        authors: "Sarath Sreedharan, Trisha Ghali and David Smith",
+        year: 2025,
+        additional: "ICAPS HAXP Workshop 2025",
+      },
+      {
+        title: "Revisiting Action Failures Through the Lens of Cooperative Games",
+        url: "https://openreview.net/pdf?id=YVD85eTdDa",
+        tags: ["XAI"],
+        authors: "Sarath Sreedharan, and David Smith",
+        year: 2025,
+        additional: "ICAPS HAXP Workshop 2025",
+      },
       {
         title: "HuTCH: Human Teachable Concept Highlighter for Post-hoc Visual Explanations",
         url: "https://sarathsreedharan.com/files/papers/conference/Mirhaji_AIED_2025_HuTCH_Erfan_shortened.pdf",
