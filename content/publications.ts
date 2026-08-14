@@ -31,7 +31,8 @@ export const publications: Publication[] = [
     },
     {
         title: "Planning for Signaling in Low-Trust Environments",
-        url: "https://par.nsf.gov/biblio/10696729",
+        // url: "https://par.nsf.gov/biblio/10696729",
+        url: "https://drive.google.com/file/d/1ZpolsU2K5nyg8xpZkjgVZtMl-s2jaqlT/view?usp=sharing",
         tags: ["Human-Aware AI"],
         authors: "Septia Rani, Turgay Caglar, and Sarath Sreedharan",
         year: 2026,
