@@ -14,6 +14,14 @@ export interface Publication {
 
 export const publications: Publication[] = [
     {
+        title: "Do You Even Know What I Want? Improving LLMs Ability to Detect Hidden User Intent",
+        url: "https://drive.google.com/file/d/1XGhvGURpb5R0Ph5nzLlRXAtEKWRvncg3/view?usp=sharing",
+        tags: ["Value Alignment", "Human-Aware AI"],
+        authors: "Kelsey Sikes and Sarath Sreedharan",
+        year: 2026,
+        additional: "ICAPS, HAXP Workshop 2026",
+    },
+    {
         title: "i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler",
         url: "https://arxiv.org/abs/2607.05888",
         tags: ["XAI"],
